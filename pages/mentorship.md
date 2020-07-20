@@ -3,8 +3,12 @@ layout: page
 title: Mentorship Programme
 description: How to participate in mentorship programme.
 ---
+<p><a href=".index.html" target="_top">Goto Main Page</a></p>
 
-### PUCSD Alumni Mentorship Programme (Academic Year 2020 - 2021)
+<p><!--StartFragment --></p>
+<h3 style="text-align: center;">PUCSD Alumni Mentorship Programme</h3>
+<h4 style="text-align: center;">(Academic Year 2020 - 2021)</h4>
+<p><!--EndFragment --></p>
 
 The PUCSD Alumni Mentorship programme aims to foster meaningful relationships between PUCSD alumni mentors and current PUCSD students. These real world experiences and connections will help prepare the students for a successful future. 
 A strong mentorship program has the power to mutually benefit mentors and mentees:
@@ -58,6 +62,9 @@ The mentorship programme is not about providing internship or job opportunities 
  
 #### Continuity and Maturity of the programme beyond A.Y. 2020 - 2021
 The aim is to get the programme up and running for the current academic year and smoothen out any teething issues with the feedback loops. After the current academic year (A.Y.) hand-it over to PUCSD Alumni Body to scale this by reaching out to the broader alumni and formalizing the process. 
+
 #### Contact
 For assistance or questions about the programme, please contact PUCSDalums@gmail.com. 
 
+---
+<p><a href=".index.html" target="_top">Goto Main Page</a></p>
