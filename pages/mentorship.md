@@ -43,8 +43,10 @@ We want the relationship to develop around topics the mentor and mentee wish to 
 #### How it Works
 A step-by-step process is outlined below:-
 + Mentors and mentees complete online profile (15~25 minutes)  
+<!--
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<span style="color: darkred">__Mentor Volunteer Form__</span>](https://forms.gle/uLF17ER5WoSx2zCA7)  
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<span style="color: darkblue">__Mentee Application Form__</span>](https://forms.gle/38ERBmS54LXFc85V9)  
+-->
 + All Mentors will be invited to a virtual online session to provide a detailed understanding on expectations from you and Q&A. 
 +  All Mentees will be invited to a virtual session explaining the programme details and Q&A.
 + PUCSD LevelUP core team matches Mentees with Mentors based on interest and career goals
